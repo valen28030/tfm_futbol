@@ -91,7 +91,9 @@ Abre http://127.0.0.1:5000 → **Model training** → **Experiments** → `tfm-s
 |-----------|-----------|
 | [docs/modulo2_caso_uso.md](docs/modulo2_caso_uso.md) | Caso de uso de ciencia de datos |
 | [docs/modulo9_process_mining.md](docs/modulo9_process_mining.md) | Problema de negocio con visión de proceso |
-| [docs/modulo9_cloud_estimacion.md](docs/modulo9_cloud_estimacion.md) | Estimación de recursos cloud |
+| [docs/modulo9_cloud_estimacion.md](docs/modulo9_cloud_estimacion.md) | Estimación de recursos cloud (costes rellenados) |
+| [docs/modulo9_evidencias.md](docs/modulo9_evidencias.md) | Checklist de capturas para la entrega |
+| [docs/anteproyecto/](docs/anteproyecto/) | Anteproyecto del TFM |
 
 ## Estado del proyecto
 
